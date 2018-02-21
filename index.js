@@ -25,3 +25,15 @@ while (i < facts.length){
 } 
 
 johnLennonFacts();
+
+function iLoveTheBeatles(number) {
+    var text = [];
+    do {
+        love.push("I love the Beatles!");
+        number++;
+    } while (number < 15);
+
+    return text;
+}
+
+iLoveTheBeatles(3);
