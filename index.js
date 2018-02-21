@@ -19,7 +19,7 @@ while (i < facts.length){
   return newFacts;
 } 
 
-johnLennonFacts();
+johnLennonFacts("He was the last Beatle to learn to drive");
 
 
 function iLoveTheBeatles(number) {
