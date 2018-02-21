@@ -15,7 +15,7 @@ function johnLennonFacts(){
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-var i = 0;
+var i = 1;
 var newFacts = [];
 while (i < facts.length){
    newFacts.push(facts[i] + "!!!");
