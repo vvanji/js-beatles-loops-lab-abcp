@@ -23,3 +23,5 @@ while (i < facts.length){
   }
   return newFacts;
 } 
+
+johnLennonFacts();
