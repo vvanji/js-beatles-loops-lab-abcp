@@ -8,7 +8,7 @@ return text;
 
 theBeatlesPlay('John Lennon', 'Guitar');
 
-function johnLennonFacts(){
+function johnLennonFacts(array){
   var facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
